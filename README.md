@@ -2,14 +2,14 @@
 
 
 ######Write code for listBranches in a given repo under an owner  
+
 '''
 var request = require('request');
 var fs = require("fs");
 var Promise = require('bluebird');
 var parse = require('parse-link-header');
 
-
-////// FILL IN THE BLANKS
+FILL IN THE BLANKS
 
 var token = "token " + "YOUR TOKEN";
 var userId = "scyadav";
@@ -23,8 +23,8 @@ createRepo(org);
 createIssue();
 editRepo(userId,repo);
 listReactions(userId, repo, number);
-
-
+'''
+'''
 function listReactions(userName, repo, number)
 {
 var options = {
@@ -50,10 +50,10 @@ var options = {
 	});
 	
 }
+'''  
 
 
-
-
+'''  
 function editRepo(userName,repo)
 {
 var options = {
@@ -80,7 +80,9 @@ var options = {
 	
 }
 
+'''  
 
+'''  
 
 function createIssue(userName,repo)
 {
@@ -107,9 +109,9 @@ var options = {
 	});
 	
 }
+'''  
 
-
-
+'''  
 function createRepo(org)
 {
 var options = {
@@ -133,7 +135,10 @@ var options = {
 			console.log( name );
 		}
 	});
-}
+}  
+'''  
+
+'''    
 
 function listBranches(userName,repo)
 {
@@ -159,8 +164,8 @@ var options = {
 		}
 	});
 	
-}
-'''
+}  
+'''  
 
 
 
