@@ -12,15 +12,14 @@ var parse = require('parse-link-header');
 
 FILL IN THE BLANKS
 
-var token = "token " + "YOUR TOKEN";
+var token = "token " + "429306c3ed05836920a2c6203c9e4618ec8e577a";
 var userId = "scyadav";
 
-var urlRoot = "https://api.github.com";
-// NCSU Enterprise endpoint:
-// https://github.ncsu.edu/api/v3
+var urlRoot = "https://github.ncsu.edu/api/v3";
+// NCSU Enterprise endpoint
 
 listBranches(userId,repo);
-createRepo(org);
+createRepo();
 createIssue();
 editRepo(userId,repo);
 listReactions(userId, repo, number);
