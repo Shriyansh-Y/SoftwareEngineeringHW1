@@ -42,7 +42,7 @@ REST is covered by the basic idea of URL-based resources. Thus, we can say, that
 
 GraphQL is a query language, that can be perfect for APIs. The user can define data using a fully-fledged type system, forming self-documenting schema.   
 
-**Advantages-GraphQL:**  
+**Advantages:**  
 
 * GraphQL gives clients the power to request for exactly the data they need.
 * GraphQL APIs have been organized in terms of types and fields, not endpoints. Thus, we can access the data capabilities from a single endpoint.
