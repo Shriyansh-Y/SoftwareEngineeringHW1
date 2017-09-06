@@ -17,7 +17,7 @@ for a0 in range(q):
 
 ### This is not me
 
-![Pikachu](https://github.ncsu.edu/scyadav/HW1/blob/gh-pages/pikachu.jpg)
+![Yup, you are right](https://github.ncsu.edu/scyadav/HW1/blob/gh-pages/pikachu.jpg)
 
 ### My Courses: Fall 2017
 
