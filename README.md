@@ -11,7 +11,7 @@ For example:
 
 ### This is not me
 
-![image]()
+[https://github.ncsu.edu/scyadav/HW1/blob/gh-pages/pikachu.jpg]
 
 ### My Courses: Fall 2017
 
