@@ -7,11 +7,20 @@ I like coding in Python. Becaise it makes life very easy with the use of it's ex
 For example:
 ```python
 
+// Finding 'hackerrank' in a string 
+
+import sys
+
+q = int(input().strip())
+for a0 in range(q):
+    s = input().strip()
+    b='hackerrank'
+        print('YES' if re.search(r'.*h.*a.*c.*k.*e.*r.*r.*a.*n.*k.*',s) else 'NO')
 ```
 
 ### This is not me
 
-[https://github.ncsu.edu/scyadav/HW1/blob/gh-pages/pikachu.jpg]
+![Pikachu](https://github.ncsu.edu/scyadav/HW1/blob/gh-pages/pikachu.jpg)
 
 ### My Courses: Fall 2017
 
