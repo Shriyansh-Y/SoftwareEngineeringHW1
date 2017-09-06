@@ -1,16 +1,13 @@
 # About Me
 
-Hello, this a page about me. My name is Shriyansh. And I am a CS Graduate student at NC State. This page is part f an assignment to be completed for my course- Software Engineering.  
+Hello, this a page about me. My name is Shriyansh. And I am a CS Graduate student at NC State. This page is part of an assignment to be completed for my course- Software Engineering.  
 
 I like coding in Python. Becaise it makes life very easy with the use of it's extensive library. You can solve String problems in basically a single line.  
 
 For example:
 ```python
-
 // Finding 'hackerrank' in a string 
-
 import sys
-
 q = int(input().strip())
 for a0 in range(q):
     s = input().strip()
