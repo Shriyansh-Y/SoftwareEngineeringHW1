@@ -4,19 +4,18 @@ Hello, this a page about me. My name is Shriyansh. And I am a CS Graduate studen
 
 I like coding in Python. Becaise it makes life very easy with the use of it's extensive library. You can solve String problems in basically a single line.  
 For example:
-```
+```python
+
 ```
 
 ##### This is not me
 
-![image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiO9ue_1pHWAhWCYyYKHe5pBWgQjRwIBw&url=http%3A%2F%2Fpoohadventures.wikia.com%2Fwiki%2FPikachu&psig=AFQjCNHw7VBg4TWJDXp1iuGUCRmCQRmcGw&ust=1504825595228819)
+![image]()
 
 ### My Courses: Fall 2017
 
-```
 | Course Name     | Credits | Days | Time |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | Software Engineering | 3 | Monday-Wednesday | 10:00 AM - 11:15 AM |
 | Data Intensive Computing | 3 | Monday-Wednesday | 08:30 AM - 09:45 AM |
 | Operating Systems and Concepts | 3 | Monday-Wednesday | 03:00 PM - 04:15 PM |
-```
