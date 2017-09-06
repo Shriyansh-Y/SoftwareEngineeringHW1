@@ -2,7 +2,7 @@
 
 
 ### REST  
-The submission file script.js includes function for each of the following:  
+The submission file [script.js](https://github.ncsu.edu/scyadav/HW1/blob/master/script.js) includes function for each of the following:  
 * listBranches in a given repo under an owner  
 * createRepo to create a new repository   
 * createIssue to create a new issue in the above created repository   
