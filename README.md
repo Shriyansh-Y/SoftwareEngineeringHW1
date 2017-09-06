@@ -12,6 +12,6 @@ The submission file script.js includes function for each of the following:
 All functions are in a single file. In case of any runtime issue, please run the 'createRepo' function first, and follow it up with the other functions in the same order to obtain the required results.
 
 ###  About Me  
-The link to the web page is-  [https://pages.github.ncsu.edu/scyadav/HW1/]
+The link to the web page is-  https://pages.github.ncsu.edu/scyadav/HW1/
 
 ###  Concepts  
