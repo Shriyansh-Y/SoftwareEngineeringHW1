@@ -1,11 +1,11 @@
 <HTML>
 <HEAD>
-<TITLE>This is an About Me page</TITLE>
+<H1>This is an About Me page</H1>
 </HEAD>
 <BODY>
-<H1>This is on branch gh-pages</H1>
+<H2>This is on branch gh-pages</H2>
 <BR>
-<H2>This is part of my software engineering HW1</H2>
+<H3>This is part of my software engineering HW1</H3>
 <BR>
 <P> <B>I know it is a really small page</B></P>
 
